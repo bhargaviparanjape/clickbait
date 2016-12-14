@@ -1,0 +1,481 @@
+cc
+det
+nmod:tmod
+compound:prt
+nsubjpass
+csubj
+dobj
+neg
+mark
+auxpass
+aux
+xcomp
+nsubj
+nmod:npmod
+nummod
+advmod
+punct
+compound
+conj:or
+nmod:poss
+case
+cop
+dep
+conj:and
+nmod:around
+nmod
+amod
+acl:relcl
+acl
+advmod case
+nsubj nmod:poss
+dep xcomp
+nsubj nummod
+conj:and nmod:poss
+nmod:npmod nummod
+conj:or punct
+dep det
+amod cc
+nsubjpass compound
+dep dep
+dobj neg
+amod compound
+nmod:around case
+xcomp cop
+amod conj:and
+conj:and compound
+dobj advmod
+advmod nmod:npmod
+acl cop
+nmod:poss compound
+xcomp mark
+nsubj conj:or
+xcomp dobj
+dobj conj:or
+xcomp nmod
+acl:relcl xcomp
+conj:or det
+xcomp advmod
+conj:and det
+xcomp amod
+acl:relcl auxpass
+xcomp nsubj
+dobj nummod
+acl:relcl punct
+xcomp compound
+xcomp dep
+acl:relcl aux
+xcomp det
+acl xcomp
+amod nmod:npmod
+acl compound:prt
+xcomp nmod:poss
+amod nmod:tmod
+nmod:tmod amod
+acl:relcl nsubj
+nmod:poss det
+nmod:tmod compound
+dep mark
+conj:and amod
+acl mark
+compound punct
+nsubj nmod
+nmod:poss amod
+dep neg
+conj:and cop
+nsubj acl:relcl
+acl dobj
+conj:or nsubj
+dep nmod:npmod
+nmod:tmod nmod:poss
+dobj acl
+dep dobj
+amod advmod
+amod punct
+nummod compound
+xcomp nmod:tmod
+acl:relcl dep
+compound conj:and
+acl:relcl det
+acl:relcl nmod
+nsubj compound
+dep amod
+acl advmod
+advmod advmod
+xcomp punct
+dep compound:prt
+compound conj:or
+acl auxpass
+compound compound
+nsubjpass acl:relcl
+nsubjpass det
+nsubjpass dep
+nsubj cc
+nsubj amod
+dobj nmod:poss
+dep case
+nsubj conj:and
+xcomp auxpass
+nsubjpass punct
+dep conj:or
+acl:relcl nmod:tmod
+csubj xcomp
+amod dep
+amod conj:or
+dep compound
+dep nsubj
+dep conj:and
+acl amod
+dobj punct
+nmod:poss case
+compound amod
+acl:relcl dobj
+conj:and dobj
+dep cop
+acl:relcl cop
+acl:relcl compound
+dobj amod
+nmod:tmod nummod
+nmod:around det
+csubj dobj
+nsubj punct
+xcomp xcomp
+nmod:tmod det
+dep nmod
+nsubj neg
+conj:or compound
+acl det
+nmod:poss nmod:poss
+nsubj det
+nsubj dep
+nmod:npmod det
+acl:relcl neg
+nsubjpass nmod:poss
+conj:and advmod
+dobj cc
+nmod dep
+dep aux
+nsubj advmod
+dobj dep
+dobj compound
+dobj det
+acl:relcl compound:prt
+conj:and nsubj
+dobj conj:and
+acl:relcl case
+xcomp compound:prt
+acl:relcl advmod
+dep advmod
+nsubjpass amod
+dep auxpass
+dep punct
+acl:relcl amod
+conj:or amod
+nummod advmod
+advmod dep
+advmod det
+nmod conj:or
+nmod:around dep
+conj:and punct
+acl nmod
+amod amod
+nsubj acl
+dep nmod:poss
+dep nummod
+dep dep nmod:poss
+dep dobj advmod
+dobj amod nmod:npmod
+dep dep nmod:npmod
+dep dep punct
+acl:relcl dobj punct
+dep dobj nummod
+nsubj dep det
+nsubj dep dep
+nsubj nummod compound
+nsubj acl cop
+acl:relcl xcomp compound:prt
+nsubjpass dep compound
+nmod dep dep
+dep nsubj compound
+dep advmod case
+acl:relcl advmod case
+dobj nummod advmod
+acl:relcl nsubj advmod
+compound amod advmod
+nsubj acl:relcl case
+csubj dobj compound
+acl:relcl dep punct
+acl xcomp dobj
+nsubj conj:and punct
+xcomp dobj nmod:poss
+nsubj dep advmod
+xcomp xcomp advmod
+nsubj acl:relcl punct
+xcomp dep nsubj
+conj:or nsubj compound
+nsubj advmod nmod:npmod
+nsubj dep nummod
+acl:relcl nsubj amod
+acl:relcl xcomp det
+xcomp xcomp punct
+dep xcomp nsubj
+dep nsubj conj:and
+dobj nmod:poss det
+nsubj amod compound
+nsubj amod nmod:tmod
+xcomp dep advmod
+nsubj conj:and amod
+dobj amod dep
+acl dobj punct
+advmod dep amod
+conj:and amod advmod
+xcomp dep nmod:poss
+dobj nmod:poss case
+nsubj acl dobj
+acl dobj amod
+nsubj amod punct
+advmod dep det
+nmod:poss amod advmod
+acl:relcl nmod:tmod nmod:poss
+nsubjpass amod nmod:npmod
+acl xcomp cop
+dep xcomp auxpass
+nsubj acl compound:prt
+nsubj nmod:poss compound
+nsubj acl:relcl compound:prt
+nsubj dep dobj
+acl:relcl xcomp xcomp
+dobj amod punct
+nsubjpass nmod:poss case
+nsubj acl:relcl nmod:tmod
+xcomp nmod:tmod det
+xcomp xcomp nsubj
+dep conj:and advmod
+xcomp dep compound
+dep nsubj amod
+nsubj dep compound
+conj:and nmod:poss case
+xcomp nsubj nmod:poss
+xcomp advmod advmod
+csubj xcomp punct
+acl dobj compound
+nsubj acl:relcl auxpass
+xcomp dobj compound
+acl:relcl nmod:tmod det
+dep xcomp dobj
+conj:and nsubj compound
+dobj dep advmod
+dobj nmod:poss nmod:poss
+dep dep compound
+nsubj acl:relcl nmod
+dobj conj:or det
+xcomp dobj det
+acl:relcl dobj compound
+xcomp dobj punct
+acl:relcl nmod:tmod compound
+dobj amod advmod
+dep nsubj advmod
+dep dobj nmod:poss
+nsubj nmod:poss nmod:poss
+nsubj amod dep
+nsubj conj:and nmod:poss
+acl:relcl amod advmod
+nsubj amod advmod
+acl advmod advmod
+acl:relcl dobj neg
+dobj conj:and det
+acl:relcl nsubj cc
+acl:relcl dobj nummod
+dep nmod:poss case
+nsubj acl:relcl advmod
+acl:relcl xcomp advmod
+dep amod conj:and
+dep conj:or punct
+xcomp xcomp dobj
+nsubjpass amod advmod
+acl xcomp amod
+xcomp dep dep
+xcomp dep det
+nmod:tmod nmod:poss case
+advmod nmod:npmod det
+acl:relcl xcomp mark
+dep conj:or compound
+conj:and dobj nmod:poss
+dobj dep dep
+dep xcomp amod
+dep dobj punct
+xcomp xcomp compound
+acl:relcl xcomp nsubj
+acl:relcl dep amod
+dobj dep det
+dep dep amod
+acl xcomp advmod
+acl:relcl nmod:tmod amod
+nsubjpass dep amod
+acl:relcl dep det
+nsubj amod nmod:npmod
+xcomp nsubj det
+conj:or nsubj det
+nsubj nummod advmod
+dep dep advmod
+dobj dep nmod:poss
+xcomp dep case
+acl:relcl dobj advmod
+dep xcomp mark
+dobj compound conj:and
+dobj conj:and compound
+dep xcomp punct
+acl:relcl xcomp cop
+dep amod amod
+nsubj dep nmod:poss
+nsubj conj:or amod
+conj:and dobj compound
+acl:relcl dobj dep
+xcomp amod advmod
+nsubj conj:and det
+nsubj acl:relcl xcomp
+nsubj acl auxpass
+acl:relcl xcomp dep
+dep nmod:npmod nummod
+dobj amod amod
+conj:and dobj det
+nsubj dep nsubj
+dep compound punct
+nmod:tmod nmod:poss det
+dep conj:and compound
+nsubj acl nmod
+advmod advmod advmod
+dep advmod advmod
+dep xcomp cop
+xcomp nsubj punct
+acl dobj det
+dep dobj det
+nsubj acl advmod
+dep dobj dep
+xcomp nmod:tmod amod
+acl advmod case
+acl xcomp nsubj
+csubj dobj det
+xcomp nmod:tmod nmod:poss
+acl:relcl nsubj nmod:poss
+dobj dep compound
+nsubj conj:or det
+dep xcomp advmod
+nsubj acl det
+xcomp xcomp mark
+nsubjpass acl:relcl dobj
+nmod:poss nmod:poss case
+dobj conj:and amod
+nsubj acl:relcl neg
+dobj nmod:poss compound
+nsubj acl:relcl cop
+acl dobj nummod
+dobj nummod compound
+nsubj compound conj:and
+dobj dep nummod
+nsubj compound compound
+dep dobj amod
+dep conj:and amod
+dobj conj:and punct
+dobj amod conj:and
+conj:and dobj amod
+nsubj compound amod
+dep nsubj nmod:poss
+acl:relcl dep compound
+acl:relcl nsubj neg
+nsubj dep punct
+dep nsubj nummod
+nsubj nmod:poss case
+acl dobj advmod
+nsubj acl:relcl dobj
+acl:relcl xcomp dobj
+xcomp nmod:poss case
+acl:relcl advmod advmod
+dobj dep amod
+nsubj acl:relcl amod
+acl:relcl nsubj nummod
+acl:relcl dobj conj:and
+acl:relcl xcomp nmod:tmod
+acl:relcl dep nsubj
+dobj amod nmod:tmod
+xcomp nsubj compound
+acl:relcl nsubj compound
+dobj conj:and nmod:poss
+dep nmod dep
+acl:relcl xcomp nmod
+nsubj acl xcomp
+dobj acl mark
+dep conj:or amod
+nsubj dep xcomp
+dep dobj compound
+dep conj:and nsubj
+acl dobj conj:and
+xcomp dobj amod
+acl:relcl nsubj punct
+dobj amod cc
+amod nmod:npmod nummod
+acl:relcl dobj nmod:poss
+nsubj conj:or compound
+dobj compound conj:or
+nsubj acl mark
+conj:and nsubj det
+nsubj nmod dep
+dep nsubj neg
+dep amod dep
+acl:relcl xcomp auxpass
+dep dep nummod
+nsubj dep nmod
+xcomp nsubj amod
+acl:relcl dep advmod
+dep nsubj punct
+dep amod advmod
+amod conj:and advmod
+dep conj:or det
+dobj acl compound:prt
+acl:relcl xcomp punct
+xcomp dep dobj
+dobj nmod:poss amod
+amod nmod:npmod det
+dobj conj:or compound
+dep nsubj det
+nsubj acl:relcl det
+nsubj compound punct
+nsubj acl:relcl dep
+xcomp xcomp cop
+advmod nmod:npmod nummod
+dep dep dobj
+acl:relcl xcomp amod
+dep dobj acl
+dobj acl dobj
+dep conj:and cop
+dobj amod compound
+nsubj acl:relcl aux
+nsubj dep neg
+xcomp xcomp det
+conj:and nsubj nmod:poss
+acl:relcl dobj det
+conj:and nsubj amod
+nsubj acl:relcl nsubj
+acl:relcl nsubj conj:and
+csubj dobj nmod:poss
+nsubj conj:and compound
+acl xcomp mark
+dobj acl advmod
+nsubj amod conj:and
+nsubj dep amod
+dobj dep punct
+dep dep dep
+dep dep det
+acl:relcl nsubj det
+nsubj dep conj:and
+nsubj amod amod
+acl:relcl dobj amod
+acl dobj nmod:poss
+dobj dep nsubj
+nmod:around dep compound
+conj:and advmod advmod
+dep xcomp dep
+dep xcomp det
+csubj dobj amod
+xcomp xcomp amod
+dep dobj neg
