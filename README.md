@@ -1,7 +1,7 @@
 # SVM clickbait classifier
 Code and Dataset used in the paper titled,
-**[Stop Clickbait: Detecting and Preventing Clickbaits in Online News Media](www.facweb.iitkgp.ernet.in/~niloy/PAPER/P-ASONAM-2016_paper_64.pdf)**
-at *2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining(ASONAM)*
+**[Stop Clickbait: Detecting and Preventing Clickbaits in Online News Media](http://cse.iitkgp.ac.in/~abhijnan/papers/chakraborty_clickbait_asonam16.pdf)**
+at *2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)*
 
 ### Requirements
 1. JDK 1.7 or greater
