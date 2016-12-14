@@ -27,7 +27,7 @@ classifier.fit(X, y)
 print "Classifer created"
 ##############################################################
 
-######################bhargavi part###########################
+##################### Clickbait Classifier Service ###########################
 def isclickbait(document):
 	try:
 		title_vector = numpy.array(utility.create_vector(document)).reshape(1,-1)
