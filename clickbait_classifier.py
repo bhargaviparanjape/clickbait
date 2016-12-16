@@ -6,7 +6,7 @@ import subprocess
 import time
 import utility
 
-###############Classifier############################
+###############  Classifier  ############################
 print "creating classifier..."
 no_samples = 10000
 positive = numpy.loadtxt("vectors/positive.csv",  delimiter=',')
@@ -32,9 +32,9 @@ def isclickbait(document):
 		# t = scaler.transform(title_vector)
 		prediction = classifier.predict(title_vector)
 		if prediction[0] == 1:
-			print "That's Clickbait!"
+			print "The headline is a Clickbait!"
 		else:
-			print "That's not Clickbait!"
+			print "The headline is not a Clickbait!"
 	except Exception,e:
 		print "except:", e
 
