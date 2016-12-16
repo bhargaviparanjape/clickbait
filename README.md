@@ -10,8 +10,8 @@ Abhijnan Chakraborty, Bhargavi Paranjape, Sourya Kakarla, and Niloy Ganguly. "St
 BibTex:
 
 @inproceedings{chakraborty2016stop,
-  title={Stop Clickbait: Detecting and preventing clickbaits in online news media},
-  author={Chakraborty, Abhijnan and Paranjape, Bhargavi and Kakarla, Sourya and Ganguly, Niloy},
+title={Stop Clickbait: Detecting and preventing clickbaits in online news media},
+author={Chakraborty, Abhijnan and Paranjape, Bhargavi and Kakarla, Sourya and Ganguly, Niloy},
   booktitle={Advances in Social Networks Analysis and Mining (ASONAM), 2016 IEEE/ACM International Conference on},
   pages={9--16},
   year={2016},
@@ -42,5 +42,5 @@ BibTex:
 * vectors: Includes pretrained vectors used for classification
 * experiment.py: code used to run certain experiments for the paper (can be ignored)
 * stanford_server.py : Exposes Stanford CoreNLP as a service on localhost
-* server.py : The clickbait classifier
+* clickbait_classifier.py : The clickbait classifier
 * utility.py : Helper functions
