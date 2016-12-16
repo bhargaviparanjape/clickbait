@@ -10,7 +10,6 @@ import socket
 from sklearn.externals import joblib
 import numpy
 
-
 HOST = '127.0.0.1'
 PORT = 9998
 # alchemyapi = AlchemyAPI()
