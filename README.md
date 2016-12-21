@@ -33,7 +33,7 @@ BibTex:
 * Install python module stanford_corenlp_pywrapper following instructions in thier README.md
 * In file stanford_server.py, change path to the Stanford CoreNLP suite to where the suite was extracted
 * Run Command : python stanford_server.py
-* On a *separate Terminal*, run command: python server.py
+* On a *separate Terminal*, run command: python clickbait_classifier.py
 * At the prompt, enter the title to be classified, or enter q/Q to exit
 
 ### Code
